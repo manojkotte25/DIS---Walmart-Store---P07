@@ -2,7 +2,7 @@
 
 Team Number:P07
 
-Team Members: Manoj Kumar Kotte
+Team Members: Manoj Kumar Kotte &
               Mani Nomula
 
 Summary: We will be using Walmart Store transactions as our data set. This dataset contains huge amount of information related to various stores. We are calculating what is the maximum and minimum fuel price encountered at each store.
@@ -41,3 +41,20 @@ Reducer Output (max):
 Language: We are using Python as our programming language.
 
 Process: We are processing numeric data. No data cleaning is required for the data set.
+
+
+
+## Getting Started
+
+- Import this repo to your Github.
+- Clone from your Github down to your local computer, e.g. C:\44564\P07.
+
+## Steps to run:
+
+- Right click on folder (P07) and click open-command-window-here-administrator.
+- Enter the following commands in the window.
+	- python mapper.py
+  - You will get an output as map_out.txt which acts as input to reducer file.
+	- python reducer.py
+  - After executing this command we will get two output files. One is for maximum and another is minimum.
+
