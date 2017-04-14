@@ -54,9 +54,23 @@ Process: We are processing numeric data. No data cleaning is required for the da
 - Right click on folder (P07) and click open-command-window-here-administrator.
 - Enter the following commands in the window.
 	- python mapper.py
+	
+	
 	![1](https://cloud.githubusercontent.com/assets/22262884/25057522/4ad6d348-2136-11e7-8e74-0902b78adc64.PNG)
 
-  - You will get an output as map_out.txt which acts as input to reducer file.
+	The output of mapper.py is stored in map_out.txt and it looks like this
+	
+	![3](https://cloud.githubusercontent.com/assets/22262884/25057552/9f109a5c-2136-11e7-910f-efe7e81c9d50.PNG)
+
+	
+  - This  map_out.txt acts as input to reducer file.
+  
 	- python reducer.py
+	
+	![2](https://cloud.githubusercontent.com/assets/22262884/25057525/5429d67a-2136-11e7-9af6-7f11d20761cb.PNG)
+
+	
   - After executing this command we will get two output files. One is for maximum and another is minimum.
 
+
+![4](https://cloud.githubusercontent.com/assets/22262884/25057553/a04779f4-2136-11e7-9cd6-676e6a049211.PNG)
