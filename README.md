@@ -43,6 +43,10 @@ Language: We are using Python as our programming language.
 Process: We are processing numeric data. No data cleaning is required for the data set.
 
 
+We have used the Modern Version Controlling System -GIT. The repository is made public and the code is available in an accessible location. Yes, each team member designed, implemented, and executed one of the MapReduce processes. We have divided the work equally and worked collectively which made us to complete the project successfully.
+
+
+
 
 ## Getting Started
 
@@ -74,3 +78,9 @@ Process: We are processing numeric data. No data cleaning is required for the da
 
 
 ![4](https://cloud.githubusercontent.com/assets/22262884/25057553/a04779f4-2136-11e7-9cd6-676e6a049211.PNG)
+
+
+Graphical representation of maximum function:
+
+![10](https://cloud.githubusercontent.com/assets/22262884/25250052/bf9f2e62-25d9-11e7-860c-9ad72632f914.PNG)
+
