@@ -9,7 +9,7 @@ Summary: We will be using Walmart Store transactions as our data set. This datas
 
 Describe your Data Source: Our data source is features.txt, which is structured data. We have converted csv file to text file so that it is easy to handle. This file contains 12 fields and size of the file is around 580KB and the data is structured.
 
-Link to Data Source: https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data(Links to an external site.) (Links to an external site.)
+Link to Data Source: https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data (Links to an external site.)
 
 What makes it a big data problem?
 Volume: Even though the size of the file is 580 KB, it has 8191 records which is hard to handle using traditional methods.
